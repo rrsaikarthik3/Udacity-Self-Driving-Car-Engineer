@@ -14,7 +14,7 @@ In order to try out this code, please run the 'P1.ipynb' file with the appropria
 
 Description
 ---
-This project was first attempted to mark the lanes in an image. This was done in order to calibrate the parameters that were used and then these were trained on multiple video clips. In order to get a detailed description of the method used to achieve this, please read [writeup_Project1.md] (https://github.com/rrsaikarthik3/Udacity-Self-Driving-Car-Engineer_Project_1_Finding_Lane_Lines/writeup_Project_1.md)
+This project was first attempted to mark the lanes in an image. This was done in order to calibrate the parameters that were used and then these were trained on multiple video clips. In order to get a detailed description of the method used to achieve this, please read [writeup_Project1.md] (https://github.com/rrsaikarthik3/Udacity-Self-Driving-Car-Engineer_Project_1_Finding_Lane_Lines/blob/main/writeup_Project_1.md)
 1. The pipeline used to achieve this project basically consisted of  : 
 Grayscaling -> Guassian Blurring -> Canny Edge Detection -> Cropping the region of Interest -> Marking Lines that could be formed -> Grouping Lines to form single lined lane marking on either side
 
